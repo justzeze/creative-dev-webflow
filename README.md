@@ -17,6 +17,10 @@ Webflow, Slater, GSAP, ScrollTrigger, Lenis, Three.js et WebGL, CMS Webflow, cus
 | Player mobile double bande | [mobile-player](./mobile-player) | Deux bandes CMS synchronisées, titres qui glissent, images en recouvrement, sur cadre figé. |
 | Nav Blend auto-inversé | [nav-blend](./nav-blend) | Texte de nav qui s'inverse automatiquement selon le fond via mix-blend-mode. |
 | Highlight Sweep | [highlight-sweep](./highlight-sweep) | Balayage de surlignage lettre par lettre, en boucle ou au survol. |
+| Navigation over-scroll | [overscroll-nav](./overscroll-nav) | Passage au projet suivant/précédent par over-scroll entre pages CMS, avec pourcentage de progression. |
+| Curseurs contextuels | [curseurs-contextuels](./curseurs-contextuels) | Labels Ouvrir / Fermer suivant le pointeur en blend difference, zone cliquable. |
+| Marquee CMS imbriqué | [marquee-cms-imbrique](./marquee-cms-imbrique) | Bande horizontale sans couture via Collection List imbriquée, parallax masqué. |
+| Grille infinie playground | [infinite-grid-playground](./infinite-grid-playground) | Grille draggable infinie branchée au CMS, épinglée en sticky. |
 
 ## Dépendances globales
 
